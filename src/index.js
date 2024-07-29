@@ -1,3 +1,4 @@
+import './style.css'
 import loadPage from "./loadPage";
 import menuLoad from "./menu/menu"
 import contactLoad from "./contact/contact";

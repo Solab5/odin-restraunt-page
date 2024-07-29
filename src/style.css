@@ -1,0 +1,21 @@
+body {
+    background-color: mintcream;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+}
+
+header {
+    background: cadetblue;
+    height: 30px;
+}
